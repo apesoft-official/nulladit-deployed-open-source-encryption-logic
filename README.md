@@ -29,3 +29,6 @@ Privacy is not a privilege conferred by an intermediary. NULLADIT seeks to make 
 Aurora Covenant is only a proposal and does not establish deployed encryption provenance; see [AURORA-COVENANT.md](AURORA-COVENANT.md).
 
 Developed by **Apesoft Canada** · **Inviolable Conversations**
+
+
+The proposed [VESTIGIUM accountability contract](https://github.com/apesoft-official/nulladit-pelavium/blob/main/VESTIGIUM.md) does not establish encryption source-to-artifact provenance and is not deployed.
