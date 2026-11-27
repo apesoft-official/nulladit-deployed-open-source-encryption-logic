@@ -32,3 +32,7 @@ Developed by **Apesoft Canada** · **Inviolable Conversations**
 
 
 The proposed [VESTIGIUM accountability contract](https://github.com/apesoft-official/nulladit-pelavium/blob/main/VESTIGIUM.md) does not establish encryption source-to-artifact provenance and is not deployed.
+
+## VESTIGIUM — Evidence without surveillance
+
+Read the [Doctrine of Evidentiary Restraint](VESTIGIUM-PHILOSOPHY.md). **Prove the violation, not the conversation.** VESTIGIUM is a proposed accountability doctrine, not a deployed surveillance or access mechanism.
