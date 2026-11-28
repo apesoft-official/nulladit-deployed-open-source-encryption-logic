@@ -26,12 +26,12 @@ Privacy is not a privilege conferred by an intermediary. NULLADIT seeks to make 
 | [PELAVIUM](https://github.com/apesoft-official/nulladit-pelavium) | Experimental privacy research, not deployed |
 
 
-Aurora Covenant is only a proposal and does not establish deployed encryption provenance; see [AURORA-COVENANT.md](AURORA-COVENANT.md).
+Aurora graph deployment was reported on November 27, 2026, but does not establish deployed encryption provenance; see [AURORA-COVENANT.md](AURORA-COVENANT.md).
 
 Developed by **Apesoft Canada** · **Inviolable Conversations**
 
 
-The proposed [VESTIGIUM accountability contract](https://github.com/apesoft-official/nulladit-pelavium/blob/main/VESTIGIUM.md) does not establish encryption source-to-artifact provenance and is not deployed.
+The proposed [VESTIGIUM accountability contract](https://github.com/apesoft-official/nulladit-pelavium/blob/main/VESTIGIUM.md) does not establish encryption source-to-artifact provenance; its child deployment and bytecode remain independently unverified.
 
 ## VESTIGIUM — Evidence without surveillance
 
@@ -44,4 +44,6 @@ See the [NULL22 Representation and Node Service Compensation policy](TOKEN-REPRE
 
 ## NSELCBA boundary
 
-NSELCBA is a separate research-only operator-compensation attestation, not encryption logic and not a deployed release. It is documented in [PELAVIUM](https://github.com/apesoft-official/nulladit-pelavium/tree/main/research) and the private NULLADIT Core. It is not part of NODSEL's deployed-encryption source, release manifest, or source-to-artifact mapping.
+NSELCBA is a separate research-only operator-compensation attestation, not encryption logic or an integrated client release. A standalone contract deployment was reported on November 28, 2026; independent bytecode reconciliation remains outstanding. It is documented in [PELAVIUM](https://github.com/apesoft-official/nulladit-pelavium/tree/main/research) and the private NULLADIT Core. It is not part of NODSEL's deployed-encryption source, release manifest, or source-to-artifact mapping.
+
+See [the consolidated deployment and whitepaper bulletin](WHITEPAPER-DEPLOYMENT-UPDATE-2026-11-28.md) for recorded addresses and evidence limitations. No mining or production activation is implied.
