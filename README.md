@@ -40,3 +40,8 @@ Read the [Doctrine of Evidentiary Restraint](VESTIGIUM-PHILOSOPHY.md). **Prove t
 ## NULL22 representation and node rewards
 
 See the [NULL22 Representation and Node Service Compensation policy](TOKEN-REPRESENTATION-AND-NODE-REWARDS.md). It records Apesoft's representation limits and the proposed opt-in Proof-of-Service reward standard; it does not determine legal classification or replace applicable valuation and reporting rules.
+
+
+## NSELCBA boundary
+
+NSELCBA is a separate research-only operator-compensation attestation, not encryption logic and not a deployed release. It is documented in [PELAVIUM](https://github.com/apesoft-official/nulladit-pelavium/tree/main/research) and the private NULLADIT Core. It is not part of NODSEL's deployed-encryption source, release manifest, or source-to-artifact mapping.
